@@ -1,0 +1,1 @@
+# Offline-Password-Manager-via-QR-Codes
